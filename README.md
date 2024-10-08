@@ -8,3 +8,4 @@ Hola vengo a explicar el proyecto
 
 Contamos con 2 sp32 que se comunican a traves de SPNow.
 
+[https://europe1.discourse-cdn.com/arduino/original/4X/7/b/e/7bef16503456fa50a28ab25bd5b5800655c03511.jpeg](https://europe1.discourse-cdn.com/arduino/original/4X/7/b/e/7bef16503456fa50a28ab25bd5b5800655c03511.jpeg)
